@@ -1,0 +1,7 @@
+As we kick in on azure, here are some basic task you can do..
+
+1. create a VMs and make use of username and password to login They must be in different virtual network.
+
+2. Create two virtual networks and subnets within the virtual networka using any CIDRs of your choice(Ensure that they are valid).
+
+3. Deploy a 
